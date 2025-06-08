@@ -1,16 +1,35 @@
-## Hi there 👋
+# Yuri Ferreira Gomes
 
-<!--
-**devyurifg/devyurifg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim  
+Olá, sou um desenvolvedor em formação e apaixonado por tecnologia, código limpo e aprender coisas novas todos os dias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Localização  
+📍 Blumenau, SC – Brasil
+
+---
+
+### 💼 Redes Sociais  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuri-ferreira-gomes-679098331/)
+
+---
+
+### 🛠️ Habilidades
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🚀 Em aprendizado  
+Atualmente me dedicando ao estudo de automações com Python, desenvolvimento web e boas práticas de programação.
+
+---
+
+### 📫 Contato  
+📧 devyurifg@gmail.com
+
+---
+
+
+![devyurifg GitHub stats](https://github-readme-stats.vercel.app/api?username=devyurifg&show_icons=true&theme=radical)
