@@ -1,12 +1,12 @@
 # Yuri Ferreira Gomes
 
 ## Sobre Mim  
-📌Olá, sou um desenvolvedor em formação e apaixonado por tecnologia, código limpo e aprender coisas novas todos os dias.
+📌 Olá, sou um desenvolvedor em formação e apaixonado por tecnologia, código limpo e aprender coisas novas todos os dias.
 
 ---
 
 ## Localização  
-📍Blumenau, SC – Brasil
+📍 Blumenau, SC – Brasil
 
 ---
 
@@ -17,12 +17,12 @@
 
 ## Habilidades
 
-🛠️![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🛠️ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## Em aprendizado  
-🚀Atualmente me dedicando ao estudo de automações com Python, desenvolvimento web e boas práticas de programação.
+🚀 Atualmente me dedicando ao estudo de automações com Python, desenvolvimento web e boas práticas de programação.
 
 ---
 
