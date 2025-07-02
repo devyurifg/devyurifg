@@ -22,7 +22,7 @@
 ---
 
 ## Em aprendizado  
-🚀 Atualmente me dedicando ao estudo de automações com Python, desenvolvimento web e boas práticas de programação.
+🚀 Atualmente me dedicando ao estudo de automações com Python, desenvolvimento back-end e boas práticas de programação.
 
 ---
 
