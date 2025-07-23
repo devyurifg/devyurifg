@@ -11,13 +11,13 @@
 ---
 
 ## Redes Sociais  
-🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuri-ferreira-gomes-679098331/)
+🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuri-ferreira-gomes-679098331/) 
 
 ---
 
 ## Habilidades
 
-🛠️ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🛠️ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
